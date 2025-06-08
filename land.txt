@@ -1,0 +1,15 @@
+101, Kathmandu, North, 4, 50000, Available
+102, Pokhara, East, 5, 60000, Available
+103, Lalitpur, South, 10, 100000, Not Available
+104, Bhaktapur, West, 8, 80000, Not Available
+105, Chitwan, South, 12, 120000, Available
+106, Dharan, East, 6, 70000, Not Available
+107, Biratnagar, North, 7, 85000, Not Available
+108, Butwal, West, 9, 95000, Not Available
+109, Nepalgunj, South, 11, 110000, Available
+110, Dang, North, 3, 45000, Not Available
+111, Janakpur, East, 4, 55000, Not Available
+112, Hetauda, West, 6, 70000, Not Available
+113, Kaski, South, 8, 85000, Not Available
+114, Birgunj, North, 10, 105000, Not Available
+115, Itahari, East, 5, 60000, Available
